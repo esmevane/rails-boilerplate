@@ -1,1 +1,4 @@
-%h1 Test template
+.container
+  .row-fluid
+    .span12
+      %h1 Test template
