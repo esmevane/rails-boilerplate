@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 # Core & Base Functionality
 # -------------------------
 gem 'rails', '3.2.1'
-gem 'haml'
+gem 'haml-rails'
 gem 'bson_ext'
 gem 'mongoid'
 gem 'jquery-rails'
